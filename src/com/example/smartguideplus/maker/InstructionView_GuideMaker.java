@@ -853,8 +853,6 @@ public class InstructionView_GuideMaker implements OnTouchListener, OnClickListe
 			btn_record_record.setBackgroundResource(R.drawable.record_stop);
 		}
 	}
-
-	//yyyyy
 	private void recordCancel() {
 		setinActiveRecordBar();
 		if(recordBtnState) {
