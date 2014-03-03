@@ -854,6 +854,7 @@ public class InstructionView_GuideMaker implements OnTouchListener, OnClickListe
 		}
 	}
 
+	//yyyyy
 	private void recordCancel() {
 		setinActiveRecordBar();
 		if(recordBtnState) {
