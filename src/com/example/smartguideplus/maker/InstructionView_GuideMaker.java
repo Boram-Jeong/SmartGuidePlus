@@ -42,6 +42,11 @@ import com.example.smartguideplus.util.DrawingView;
 import com.example.smartguideplus.util.RecordHelper;
 import com.example.smartguideplus.util.ScreenShotHelper;
 
+
+
+
+// agadf
+// abcfefefefefefefe
 public class InstructionView_GuideMaker implements OnTouchListener, OnClickListener{
 
 	public class Pos {
