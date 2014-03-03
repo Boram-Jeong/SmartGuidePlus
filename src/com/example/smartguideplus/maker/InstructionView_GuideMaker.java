@@ -863,6 +863,8 @@ public class InstructionView_GuideMaker implements OnTouchListener, OnClickListe
 	}
 
 	private void startRecord() {
+		
+		
 		Toast.makeText(this.context,"녹음이 시작되었습니다.",Toast.LENGTH_SHORT).show();
 		GFH.addVoice(Integer.toString(GFH.getCurrentSceneNum()));
 		recorder.startRec(GFH.getDataInfo(1).getFileName(), gidx);
