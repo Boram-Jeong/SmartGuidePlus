@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">스마트가이드+</string>
+    <string name="action_settings">설정</string>
+    <string name="title_section1">목록</string>
+    <string name="title_section2">가이드 만들기</string>
+    <string name="title_section3">내 가이드</string>
+	<string name="title_activity_note_dialog">NoteDialog</string>
+</resources>
